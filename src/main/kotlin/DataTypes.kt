@@ -10,7 +10,7 @@ fun main(args: Array<String>) {
 
     //Booleans
     var status = true
-    var status = false
+    var sttus= false
 
     //Double - with multiple decimals
     var temp = 36.54542
